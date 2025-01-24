@@ -116,9 +116,3 @@ This project uses a combination of technologies to build the interactive and int
 
 You can access the live version of **DocuMind AI Assistant** here:  
 [DocuMind AI Assistant - Streamlit App](https://docaiassist.streamlit.app/)
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
