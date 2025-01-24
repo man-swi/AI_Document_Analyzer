@@ -78,21 +78,22 @@ To launch the **DocuMind AI Assistant** locally, follow these steps:
 
 Here are some screenshots showing how the **DocuMind AI Assistant** works:
 
+
 1. **Chatbot Interface**:  
    This image shows the main interface where the chatbot assistant interacts with the user. It’s the place where all conversations happen.  
-   ![documind](https://github.com/user-attachments/assets/5bda6293-31ba-42d6-8cc7-5dba474ad54a)
+   ![Image](https://github.com/user-attachments/assets/65776c3a-3250-4a55-8d0d-ecb087516649)
 
 2. **Extracted Text**:  
    This image displays the extracted text from a document, providing insights and summaries to the user.  
-   ![extracted](https://github.com/user-attachments/assets/e6d548fd-8bb9-4f3d-86e6-8f35efc12e53)
+   ![Image](https://github.com/user-attachments/assets/ee42c2ec-8834-4f21-8cf1-4964a39ad7b9)
 
 3. **Settings Option**:  
    This screenshot shows the settings section where users can print the output or change the theme of the assistant interface.  
-   ![settings](https://github.com/user-attachments/assets/eede0b43-3a29-4944-ae74-3a0749617c37)
+   ![Image](https://github.com/user-attachments/assets/fe242d1b-2fdb-4ba9-b660-7b5a25e47d79)
 
 4. **Chat Feature with Save/Download**:  
    This image shows the chat section where users can ask questions, and the assistant can save the conversation data for later download or printing.  
-   ![chat answers](https://github.com/user-attachments/assets/6bf63eb8-4f8e-4c97-bb5a-1c9bca570ec4)
+   ![Image](https://github.com/user-attachments/assets/38aa1f44-a6a1-4438-b0e8-ccaf59f152bd)
 
 ---
 
