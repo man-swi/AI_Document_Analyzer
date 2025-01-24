@@ -79,21 +79,21 @@ To launch the **DocuMind AI Assistant** locally, follow these steps:
 Here are some screenshots showing how the **DocuMind AI Assistant** works:
 
 
-1. **Chatbot Interface**:  
+1. **DocuMind-AI-Assistant**:  
    This image shows the main interface where the chatbot assistant interacts with the user. It’s the place where all conversations happen.  
-   ![Image](https://github.com/user-attachments/assets/65776c3a-3250-4a55-8d0d-ecb087516649)
+   ![Image](https://github.com/user-attachments/assets/53020e93-8d24-4952-b280-6ddad65f8273)
 
 2. **Extracted Text**:  
    This image displays the extracted text from a document, providing insights and summaries to the user.  
-   ![Image](https://github.com/user-attachments/assets/ee42c2ec-8834-4f21-8cf1-4964a39ad7b9)
+   ![Image](https://github.com/user-attachments/assets/2aeddc47-89c2-4860-856a-9f00e19b3190)
 
 3. **Settings Option**:  
    This screenshot shows the settings section where users can print the output or change the theme of the assistant interface.  
-   ![Image](https://github.com/user-attachments/assets/fe242d1b-2fdb-4ba9-b660-7b5a25e47d79)
+   ![Image](https://github.com/user-attachments/assets/bf4b9c07-5cf1-4b21-b588-e9537455fffe)
 
-4. **Chat Feature with Save/Download**:  
+4. **Chat Feature with Save**:  
    This image shows the chat section where users can ask questions, and the assistant can save the conversation data for later download or printing.  
-   ![Image](https://github.com/user-attachments/assets/38aa1f44-a6a1-4438-b0e8-ccaf59f152bd)
+   ![Image](https://github.com/user-attachments/assets/a88da31e-1706-4720-a680-b734c6dc2a22)
 
 ---
 
@@ -115,7 +115,7 @@ This project uses a combination of technologies to build the interactive and int
 ## 🌐 Deployed App
 
 You can access the live version of **DocuMind AI Assistant** here:  
-[DocuMind AI Assistant - Streamlit App](https://man-swi-documind-ai-assistant-app-fodyzu.streamlit.app/)
+[DocuMind AI Assistant - Streamlit App](https://docaiassist.streamlit.app/)
 
 ---
 
