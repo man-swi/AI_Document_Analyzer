@@ -78,21 +78,22 @@ To launch the **DocuMind AI Assistant** locally, follow these steps:
 
 Here are some screenshots showing how the **DocuMind AI Assistant** works:
 
-1. **Chatbot Interface**:  
+
+1. **DocuMind-AI-Assistant**:  
    This image shows the main interface where the chatbot assistant interacts with the user. It’s the place where all conversations happen.  
-   ![documind](https://github.com/user-attachments/assets/5bda6293-31ba-42d6-8cc7-5dba474ad54a)
+   ![Image](https://github.com/user-attachments/assets/53020e93-8d24-4952-b280-6ddad65f8273)
 
 2. **Extracted Text**:  
    This image displays the extracted text from a document, providing insights and summaries to the user.  
-   ![extracted](https://github.com/user-attachments/assets/e6d548fd-8bb9-4f3d-86e6-8f35efc12e53)
+   ![Image](https://github.com/user-attachments/assets/2aeddc47-89c2-4860-856a-9f00e19b3190)
 
 3. **Settings Option**:  
    This screenshot shows the settings section where users can print the output or change the theme of the assistant interface.  
-   ![settings](https://github.com/user-attachments/assets/eede0b43-3a29-4944-ae74-3a0749617c37)
+   ![Image](https://github.com/user-attachments/assets/bf4b9c07-5cf1-4b21-b588-e9537455fffe)
 
-4. **Chat Feature with Save/Download**:  
+4. **Chat Feature with Save**:  
    This image shows the chat section where users can ask questions, and the assistant can save the conversation data for later download or printing.  
-   ![chat answers](https://github.com/user-attachments/assets/6bf63eb8-4f8e-4c97-bb5a-1c9bca570ec4)
+   ![Image](https://github.com/user-attachments/assets/a88da31e-1706-4720-a680-b734c6dc2a22)
 
 ---
 
@@ -114,10 +115,4 @@ This project uses a combination of technologies to build the interactive and int
 ## 🌐 Deployed App
 
 You can access the live version of **DocuMind AI Assistant** here:  
-[DocuMind AI Assistant - Streamlit App](https://man-swi-documind-ai-assistant-app-fodyzu.streamlit.app/)
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+[DocuMind AI Assistant - Streamlit App](https://docaiassist.streamlit.app/)
